@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Launcher.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Object_Destroy.cs">
     <Files>
-      <File FileName="Assets/Launcher.cs" Line="20" Column="1" />
+      <File FileName="Assets/Launcher.cs" Line="16" Column="34" />
+      <File FileName="Assets/CubeCreator.cs" Line="17" Column="60" />
+      <File FileName="Assets/Object_Destroy.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
